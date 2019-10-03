@@ -1,0 +1,5 @@
+1 triangle 10 5
+2 triangle 4 4
+3 circle 12
+4 rectangle 3 3
+5 circle 7
